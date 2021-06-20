@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DynamicLinks</string>
+    <string name="welcome">Hoş Geldiniz \n Id No: %1$d</string>
+    <string name="discount">İndirim Oranınız: %1$s</string>
+    <string name="no_discount">İndiriminiz bulunmamaktadır.</string>
+    <string name="campaign_code">Kampanya Kodunuz: %1$d</string>
+</resources>
