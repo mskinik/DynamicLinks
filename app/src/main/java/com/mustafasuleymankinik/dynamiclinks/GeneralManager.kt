@@ -19,10 +19,8 @@ class GeneralManager {
     }
     fun createUserId(){
         id = Random.nextInt(1000,10000)
-        Log.d("TAG", "createUserId: $id")
     }
     fun getUserId():Int{
-        Log.d("TAG", "getUserId: $id")
         return id
     }
 }
